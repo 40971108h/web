@@ -9,6 +9,9 @@
 
 ## 📌作業連結區
 ### 作業一：[個人網站](https://40971108h.github.io/Myweb/)
+### 作業二：[React、node.js、Mysql](https://youtu.be/E8zvgEdHQec)
+### 作業三：[ Play Dice - js+html project](https://youtu.be/y8RT01nRllw)
+### 作業四：[]()
 
 ## 📌專題連結區
 
