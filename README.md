@@ -11,7 +11,8 @@
 ### 作業一：[個人網站](https://40971108h.github.io/Myweb/)
 ### 作業二：[React、node.js、Mysql](https://youtu.be/E8zvgEdHQec)
 ### 作業三：[Play Dice - js+html project](https://youtu.be/y8RT01nRllw)
-### 作業四：[]()
+### 作業四：[Deploy My Website to Azure](https://youtu.be/fP8hnQuLVBQ)
 
 ## 📌專題連結區
-
+### 服飾電商網站
+### [第一次提案討論](https://youtu.be/BMtquXVdyfU)
